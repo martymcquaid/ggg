@@ -7,7 +7,7 @@ export default function Home() {
         <h1 className="text-4xl font-bold text-white mb-4">Welcome to Chipify Chat</h1>
         <p className="text-slate-400">Your project is ready! Start editing in the chat.</p>
         <p className="text-slate-500 mt-4 text-sm">
-          Note: Use <code className="bg-slate-700 px-2 py-1 rounded">Link</code> from react-router-dom for navigation, not <code className="bg-slate-700 px-2 py-1 rounded">a</code> tags.
+          Tip: Use Link (react-router-dom) for navigation when you add routes.
         </p>
       </div>
     </div>
