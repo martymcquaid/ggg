@@ -1,5 +1,3 @@
-""  // no explicit React import with new JSX transform
-
 import { Link } from 'react-router-dom'
 
 type CardProps = {
